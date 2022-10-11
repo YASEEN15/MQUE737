@@ -1,9 +1,9 @@
-{
-  "name": "تليثون العرب",
-  "description": "اهلا بك في تليثون العرب",
-  "logo": "https://telegra.ph/file/f1b9e7e1a5b0f719bc5d9.png",
+ {
+  "name": "تليثون ياسين المصري",
+  "description": "اهلا بك في تليثون ياسين المصري",
+  "logo": "https://telegra.ph/file/979fe639e5e6b325c8c68.jpg",
   "keywords": ["plugin","modular","productivity"],
-  "repository": "https://github.com/help-iq2/telethon",
+  "repository": "https://github.com/YASEEN15/MQUE737",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
